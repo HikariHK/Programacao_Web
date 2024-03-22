@@ -55,7 +55,7 @@ $comida = [ "carne", "batata", "salada" ];
 print_r($comida);
 echo "<hr>";
 
-//Arrays compostos
+//Arrays multidimensionais
 
 $dp = array(
     [
